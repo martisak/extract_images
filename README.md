@@ -17,3 +17,6 @@ This will create a new directory `images` with extracted images in different for
 
 Install dependencies by `brew install poppler ghostscript`
 
+## Acknowledgments and references
+
+This came from the superuser question [How to extract vectors from a PDF file?](https://superuser.com/questions/302045/how-to-extract-vectors-from-a-pdf-file/884445#884445) and user [hackerb9](https://superuser.com/users/400780/hackerb9).
